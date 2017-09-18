@@ -1,6 +1,6 @@
 ## 命令行火车票查询小工具
 
-1. pip install -r requirements
+1. pip install -r requirements.txt
 2. python setup.py install
 
 Usage:
